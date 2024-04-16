@@ -24,6 +24,10 @@ The dashboard will provide real-time insights into critical KPIs for sales analy
    - YOY Growth in Cars Sold
    - Difference between YTD Cars Sold and PTYD Cars Sold
 
+![Car Sales Dashboard](https://github.com/Sksahu23/Power_BI_Car_Sales/blob/master/Dashboard_1.png?raw=true)
+![Car Sales Dashboard](https://github.com/Sksahu23/Power_BI_Car_Sales/blob/master/Dashboard_2.png?raw=true)
+
+
 ### **Problem Statement 2: Charts Requirement**
 The dashboard will include various visualizations to represent sales data effectively:
 
