@@ -25,7 +25,6 @@ The dashboard will provide real-time insights into critical KPIs for sales analy
    - Difference between YTD Cars Sold and PTYD Cars Sold
 
 ![Car Sales Dashboard](https://github.com/Sksahu23/Power_BI_Car_Sales/blob/master/Dashboard_1.png?raw=true)
-![Car Sales Dashboard](https://github.com/Sksahu23/Power_BI_Car_Sales/blob/master/Dashboard_2.png?raw=true)
 
 
 ### **Problem Statement 2: Charts Requirement**
@@ -48,5 +47,7 @@ The dashboard will include various visualizations to represent sales data effect
 
 6. **Details Grid Showing All Car Sales Information:**
    - Detailed grid presenting comprehensive information for each car sale, including car model, body style, color, sales amount, dealer region, and date.
+
+![Car Sales Dashboard](https://github.com/Sksahu23/Power_BI_Car_Sales/blob/master/Dashboard_2.png?raw=true)
 
 This Car Sales Dashboard will serve as a powerful tool for analyzing sales performance, identifying trends, and making data-driven decisions within the car dealership. The visualizations and metrics provided will offer a comprehensive view of sales data, facilitating a deeper understanding of sales dynamics and opportunities for growth.
